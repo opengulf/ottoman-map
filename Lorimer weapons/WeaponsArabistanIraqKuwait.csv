@@ -1,0 +1,200 @@
+textfile,type,region,GEOID,latitude,longitude,place_name,quantity_rifles
+ahwaz_district.txt,location,Arabistan,123170,30.10921,48.92417,Muwailheh and Amīnīye,130
+ahwaz_district.txt,location,Arabistan,11211233,31.02076,48.35972,Qājārīyeh,60
+ahwaz_district.txt,location,Arabistan,131991,31.88333,48.85,Luqbair,200
+ahwaz_district.txt,location,Arabistan,126255,31.17842,49.07995,Gūpāl stream,60
+ahwaz_district.txt,location,Arabistan,unknown,,,Chāi Faqaisāt,20
+ahwaz_district.txt,location,Arabistan,unknown,,,Milaihān,20
+ahwaz_district.txt,location,Arabistan,unknown,,,Kūt-an-Naddāfīyeh Saghīr,10
+ahwaz_district.txt,location,Arabistan,unknown,,,Shawweh,20
+bawiyeh.txt,tribe,Arabistan,,30.9892,49.4361,Cham-as-Sābi,150
+bawiyeh.txt,tribe,Arabistan,138360,31.27168,48.61393,Chinaibeh,20
+dizful_district.txt,location,Arabistan,145258,32.49421,48.8762,Āb Bīd,20
+dizful_district.txt,location,Arabistan,120414,32.2281,48.3898,Abbās (Qal'eh),3
+dizful_district.txt,location,Arabistan,145345,32.26766,48.35115,Abbāsābād,8
+dizful_district.txt,location,Arabistan,6687972,32.189,48.4134,Abdush Shāh (Qal'eh or Kūt),50
+dizful_district.txt,location,Arabistan,,31.95867,48.50727,Ahmad (Jirqeh Saiyid),25
+dizful_district.txt,location,Arabistan,,32.34934,48.25483,Ali (Qal'eh Hāji) (also called Khānābād),10
+dizful_district.txt,location,Arabistan,12649,30.75491,48.43098,Ali-ibn-al-Husain (Qarīyeh),2
+dizful_district.txt,location,Arabistan,130958,32.1165,49.1599,Ali Quli (Qal'eh),4
+dizful_district.txt,location,Arabistan,,31.3428,49.9272,Anjīreh,5
+dizful_district.txt,location,Arabistan,,32.2724,49.3223,Asad Khān (Qal'eh Nau) I,5
+dizful_district.txt,location,Arabistan,,32.2724,49.3223,Asad Khān (Qal'eh Nau) II,4
+dizful_district.txt,location,Arabistan,67277,32.57175,59.81617,Bīsheh Nau (Qal'eh),10
+dizful_district.txt,location,Arabistan,132361,31.8295,49.42854,Hājiābād,3
+dizful_district.txt,location,Arabistan,11032592,32.57859,48.24699,Karīm Khān('Amleh),60
+dizful_district.txt,location,Arabistan,127251,30.1672,48.4177,Khusranābād (Qal'eh),14
+dizful_district.txt,location,Arabistan,36196,32.31607,48.31734,Murādi (Zāwiyeh),0
+dizful_district.txt,location,Arabistan,122855,32.25,48.43333,Najafābād (Qal'eh),5
+dizful_district.txt,location,Arabistan,140857,32.41284,48.29097,Nāzir (Bunwār),3
+dizful_district.txt,location,Arabistan,120171,32.2692,48.4484,Qāzi (Qal'eh),4
+dizful_district.txt,location,Arabistan,120129,31.97157,48.81024,Saiyid (Qal'eh),6
+dizful_district.txt,location,Arabistan,6729584,30.62046,50.26306,Sālārābād (Qal'eh),10
+dizful_district.txt,location,Arabistan,11705313,32.21842,49.21489,Sar Bīsheh,0
+dizful_district.txt,location,Arabistan,140856,32.32703,48.44902,Shāmi (Bunwār),6
+dizful_district.txt,location,Arabistan,36691,32.13673,49.11445,Shamsābād,15
+dizful_district.txt,location,Arabistan,42462,31.94527,48.86159,Sharafābād,12
+dizful_district.txt,location,Arabistan,114828,32.3293,48.30385,Shūhān,0
+dizful_district.txt,location,Arabistan,11244032,31.07941,48.57538,Ta'amaeh (Jirqeh or Qarīyeh Saiyid),5
+dizful_district.txt,location,Arabistan,42217,31.71305,48.6852,Tāhir (Jirqeh or Qarīyeh Saiyid),6
+dizful_district.txt,location,Arabistan,unknown,,,Āqa Abu Talab (Qal'eh),4
+dizful_district.txt,location,Arabistan,unknown,,,Bakhtiyāri (Zāwiyeh),6
+dizful_district.txt,location,Arabistan,unknown,,,Bālingān Bālāi,6
+dizful_district.txt,location,Arabistan,unknown,,,Bālingān Dūman or Yāīn,20
+dizful_district.txt,location,Arabistan,unknown,,,Bandobār or Bundobāl (Qarīyeh),2
+dizful_district.txt,location,Arabistan,unknown,,,Biyāwtiyūn,20
+dizful_district.txt,location,Arabistan,unknown,,,Dihbār (Qal'eh),7
+dizful_district.txt,location,Arabistan,unknown,,,Fariāsh (Qal'eh) ,6
+dizful_district.txt,location,Arabistan,unknown,,,Jībar (Dih) ,4
+dizful_district.txt,location,Arabistan,unknown,,,Kālehwand (Qal'eh) ,10
+dizful_district.txt,location,Arabistan,unknown,,,Khizar Baigi (Zāwiyeh),0
+dizful_district.txt,location,Arabistan,unknown,,,Kūtiyān (Qal'eh) ,20
+dizful_district.txt,location,Arabistan,unknown,,,"Kūwīgh (Dih, Qal'eh or Qarīyeh) ",3
+dizful_district.txt,location,Arabistan,unknown,,,Muhammad (Jirqeh Saiyid),20
+dizful_district.txt,location,Arabistan,unknown,,,Shalgahi Buzurg ,14
+dizful_district.txt,location,Arabistan,unknown,,,Shalgahi Kuchik,5
+dizful_district.txt,location,Arabistan,unknown,,,Shama'ūn,14
+fallahiyeh_district.txt,location,Arabistan,12715,30.77042,48.95955,Dilis,20
+fallahiyeh_district.txt,location,Arabistan,12713,30.77213,48.9248,Zubaidīyeh,20
+fallahiyeh_district.txt,location,Arabistan,8301041,30.72844,48.91007,Qatrāni,90
+fallahiyeh_district.txt,location,Arabistan,124932,30.8246,48.88982,Mansūreh,20
+fallahiyeh_district.txt,location,Arabistan,11242454,30.76285,48.98994,Mansūreh Saiyid Ja'far,30
+fallahiyeh_district.txt,location,Arabistan,44981,30.77852,48.89025,Mansūreh Kinaiyin,30
+fallahiyeh_district.txt,location,Arabistan,12710,30.76081,48.86916,Farhāni,20
+fallahiyeh_district.txt,location,Arabistan,8301038,30.70735,48.86941,Nahr-ash-Shaikh,30
+fallahiyeh_district.txt,location,Arabistan,7416591,30.74094,48.85787,Chilbān,20
+fallahiyeh_district.txt,location,Arabistan,7416566,30.75818,48.86347,Khuwainis,20
+fallahiyeh_district.txt,location,Arabistan,127694,30.77789,48.82495,Khashāb,20
+fallahiyeh_district.txt,location,Arabistan,133442,30.79941,48.78952,Gharaibeh (proper),20
+fallahiyeh_district.txt,location,Arabistan,143179,30.76661,49.09189,Aquleh,30
+fallahiyeh_district.txt,location,Arabistan,121831,31.01046,49.44493,Umm-as-Sakhar,550
+fallahiyeh_district.txt,location,Arabistan,unknown,,,Zabdi ,30
+fallahiyeh_district.txt,location,Arabistan,unknown,,,Mansūreh Hasan ibn-Mādhi ,30
+fallahiyeh_district.txt,location,Arabistan,unknown,,,Qarakhān,40
+fallahiyeh_district.txt,location,Arabistan,unknown,,,Nahr Saiyid Hasan,15
+fallahiyeh_district.txt,location,Arabistan,unknown,,,Madīnat-Dishmān ,20
+fallahiyeh_district.txt,location,Arabistan,unknown,,,Braijeh,40
+fallahiyeh_district.txt,location,Arabistan,unknown,,,Madīnat-al-Mumin ,15
+fallahiyeh_district.txt,location,Arabistan,unknown,,,Nahr-al-Husaini,20
+fallahiyeh_district.txt,location,Arabistan,unknown,,,Nahr Mahmūd,40
+gargar.txt,location,Arabistan,139262,31.49746,49.84934,Muhammad Husain (Kūt Hāji) or Saiyid Amīn (Qal'eh),3
+gargar.txt,location,Arabistan,115587,31.96818,48.868,Shalaili Buzurg or Shalailīyeh Kabīr,3
+gargar.txt,location,Arabistan,115586,31.96253,48.89426,Shalaili Khard or Shalaili Kūchik or Shalailīyeh Saghīr,3
+gargar.txt,location,Arabistan,119211,31.95307,48.90541,Qurūmizi or Qul Rūmizi,30
+gargar.txt,location,Arabistan,140189,31.91038,48.9696,Nāsir or Nasair (Bunneh),10
+gargar.txt,location,Arabistan,42165,31.85046,48.98855,Sūfān or Nasr Ullah (Bunneh Mullah),10
+gargar.txt,location,Arabistan,389110,31.03025,49.72152,Abbās (Bunneh Mulla),20
+gargar.txt,location,Arabistan,6661741,31.8378,49.0001,Hilāleh,30
+gargar.txt,location,Arabistan,42352,31.74342,49.05896,Salāmāt or Saiyid Muhammad,10
+gargar.txt,location,Arabistan,42340,31.45427,48.81245,Sultān (Bunneh Saiyid),6
+gargar.txt,location,Arabistan,128245,31.05034,49.16069,Kraidi,10
+gargar.txt,location,Arabistan,42163,31.39856,48.21619,Simaideh,5
+gargar.txt,location,Arabistan,42220,31.92467,48.53702,Hasan (Saiyid),20
+gargar.txt,location,Arabistan,unknown,,,Būlaiti,200
+gargar.txt,location,Arabistan,unknown,,,Hasmāwa or Hasmābād,10
+gargar.txt,location,Arabistan,unknown,,,Chahārgāweh,4
+gargar.txt,location,Arabistan,unknown,,,Ijbāreh (Bunneh),10
+gargar.txt,location,Arabistan,unknown,,,Abdullah Jarrāh (Bunneh or Kūt),6
+gargar.txt,location,Arabistan,unknown,,,Sōzi,10
+gargar.txt,location,Arabistan,unknown,,,Adhāfeh,20
+gargar.txt,location,Arabistan,unknown,,,Dīwān (Bunneh Saiyid) ,5
+gargar.txt,location,Arabistan,unknown,,,Janām (Bunneh Shaikh),20
+gargar.txt,location,Arabistan,unknown,,,Naghaishi,10
+hamaid.txt,tribe,Arabistan,110847,31.5639,48.93804,Kharāmizeh,200
+hamaid.txt,tribe,Arabistan,143179,30.76661,49.09189,Maiyāh,200
+hamaid.txt,tribe,Arabistan,42187,31.85932,48.57905,Sā'id,30
+hamaid.txt,tribe,Arabistan,unknown,,,Attāb,30
+hamaid.txt,tribe,Arabistan,unknown,,,Awāmir,50
+hamaid.txt,tribe,Arabistan,unknown,,,Hawālāt,50
+hamaid.txt,tribe,Arabistan,unknown,,,Nisailāt,15
+jarrahi_river.txt,location,Arabistan,140861,32.51667,49.1,Bunwār Rizaiq,50
+jarrahi_river.txt,location,Arabistan,125209,31.14691,48.4319,Maksar,30
+jarrahi_river.txt,location,Arabistan,132483,30.7413,49.2026,Hadāmeh,70
+jarrahi_river.txt,location,Arabistan,113721,30.57044,49.73745,Suwaireh,40
+jarrahi_river.txt,location,Arabistan,,30.711667,49.1275,Haskeh,60
+jarrahi_river.txt,location,Arabistan,45005,30.71787,49.05662,Khamzeh,40
+jarrahi_river.txt,location,Arabistan,44912,30.7151,49.05788,Sidaireh,20
+jarrahi_river.txt,location,Arabistan,114135,30.7229,49.0487,Thilith,20
+jarrahi_river.txt,location,Arabistan,116973,31.71323,48.84722,Saraimeh,100
+jarrahi_river.txt,location,Arabistan,15016,31.45485,50.03325,Qarqar,100
+jarrahi_river.txt,location,Arabistan,unknown,,,Maksar 'Atīqeh,40
+jarrahi_river.txt,location,Arabistan,unknown,,,Kurdūnīyeh,50
+jarrahi_river.txt,location,Arabistan,unknown,,,Maqtū' Fauqāni,100
+jarrahi_river.txt,location,Arabistan,unknown,,,Maqtū' Hadrāni,90
+jarrahi_river.txt,location,Arabistan,unknown,,,Takhait ,40
+jarrahi_river.txt,location,Arabistan,unknown,,,Dōb-al-Mīr ,20
+jarrahi_river.txt,location,Arabistan,unknown,,,Alāiq (Abu) ,30
+jarrahi_river.txt,location,Arabistan,unknown,,,Tuwaiqīyeh,40
+jharrahi_district.txt,location,Arabistan,143179,30.76661,49.09189,Aquleh,20
+karbala_town.txt,location,Iraq and Kuwait,94824,32.61603,44.02488,Karbala,2
+karkheh.txt,location,Arabistan,,31.7367,47.9779,Karkheh,100
+karun.txt,location,Arabistan,,31.61273,48.69468,Khalaf (Kūt Saiyid),0
+karun.txt,location,Arabistan,123170,30.10921,48.92417,Muwailheh and Amīnīye,100
+karun.txt,location,Arabistan,,31.25633,48.47088,Anāyeh (Kūt Saiyid),150
+karun.txt,location,Arabistan,6687828,31.82868,48.38785,Abbās (Saiyid),7
+karun.txt,location,Arabistan,115282,31.26669,48.67475,Shikāreh,20
+karun.txt,location,Arabistan,131963,31.22233,48.65019,Harsheh,10
+karun.txt,location,Arabistan,126071,31.23058,48.64234,Sālih (Kūt Saiyid),20
+karun.txt,location,Arabistan,128240,31.2742,48.59862,Karaishān,10
+karun.txt,location,Arabistan,123129,31.22693,48.59857,Muzaffari (Bandar) or Muzaffarīyeh,100
+karun.txt,location,Arabistan,121826,31.25,48.55523,Tamair (Umm-at-),20
+karun.txt,location,Arabistan,42270,31.20251,48.56903,Ghazzāwīyeh,20
+karun.txt,location,Arabistan,125095,31.18686,48.47995,Milaihān,20
+karun.txt,location,Arabistan,123075,31.1664,48.51527,Morān,15
+karun.txt,location,Arabistan,139989,31.17521,48.46344,Bayūdh,0
+karun.txt,location,Arabistan,140832,31.15064,48.46688,Braikeh or Braicheh,60
+karun.txt,location,Arabistan,42404,31.12959,48.41854,Fārsiyāt,10
+karun.txt,location,Arabistan,139127,30.99976,48.38283,Chimaiyān,10
+karun.txt,location,Arabistan,11211233,31.02076,48.35972,Qājārīyeh,60
+karun.txt,location,Arabistan,unknown,,,Naddāfīyeh Kabīr (Kūt-an-),100
+karun.txt,location,Arabistan,unknown,,,Naddāfīyeh Saghīr (Kūt-an-),10
+karun.txt,location,Arabistan,unknown,,,Qrāneh,100
+karun.txt,location,Arabistan,unknown,,,Amīnīyeh,30
+karun.txt,location,Arabistan,unknown,,,Abdullah (Kūt),40
+karun.txt,location,Arabistan,unknown,,,Dibbis (Abu),0
+karun.txt,location,Arabistan,unknown,,,Amaireh (Kūt-al-) ,150
+karun.txt,location,Arabistan,unknown,,,Khifi,5
+karun.txt,location,Arabistan,unknown,,,Ismā 'īli,20
+kathir.txt,location,Arabistan,132483,30.7413,49.2026,Hiddeh or Haddāmeh on the Diz,300
+kaunak.txt,location,Arabistan,unknown,,,Kaunak,12
+kufah.txt,location,Iraq and Kuwait,99135,32.05114,44.44017,Kufah,40
+mirbacheh.txt,location,Arabistan,124849,31.26885,49.43207,Mirbacheh,70
+miyanab.txt,location,Arabistan,126675,31.98794,48.83391,Kanārpīr,60
+miyanab.txt,location,Arabistan,125611,31.93887,48.85924,Lungur,10
+miyanab.txt,location,Arabistan,124373,31.95851,48.85522,Medhdiābād or Mehdiyāreh,10
+miyanab.txt,location,Arabistan,120183,31.98752,48.81368,Qal'eh Nau,5
+miyanab.txt,location,Arabistan,120129,31.97157,48.81024,Saiyid (Kūt or Qal'eh),10
+miyanab.txt,location,Arabistan,113655,31.95461,48.87441,Tabatti,10
+miyanab.txt,location,Arabistan,unknown,,,Jadāyar,20
+muhammareh_district.txt,location,Arabistan,136167,30.92976,48.38451,Drīsīyeh,15
+muhammareh_district.txt,location,Arabistan,122346,30.89716,48.42807,Nathāreh,15
+muhammareh_district.txt,location,Arabistan,117763,30.8033,48.43981,Salaihāwīyeh,10
+muhammareh_district.txt,location,Arabistan,67007,30.6472,48.3225,Rahwāli,30
+muhammareh_district.txt,location,Arabistan,unknown,,,Man-īyeh,30
+najaf_town.txt,location,Iraq and Kuwait,98860,32.02594,44.34625,Najaf,300
+ramuz_district.txt,location,Arabistan,,31.31919,50.74546,Abdullah (Qaleh-i-Mīr),25
+ramuz_district.txt,location,Arabistan,15158,31.25943,49.62327,Ahmad (Bun-neh-i-Mulla),10
+ramuz_district.txt,location,Arabistan,7549515,31.25563,49.64345,Bāyamān,0
+ramuz_district.txt,location,Arabistan,126933,31.25507,49.59848,Kīmeh,65
+ramuz_district.txt,location,Arabistan,,30.03659,52.02258,Māl Qāīdi,15
+ramuz_district.txt,location,Arabistan,11056003,32.79107,48.50406,Shaikh (Qal'eh-i-),35
+ramuz_district.txt,location,Arabistan,,31.22554,49.5034,Tughali,10
+ramuz_district.txt,location,Arabistan,unknown,,,Bāsaidi,25
+ramuz_district.txt,location,Arabistan,unknown,,,Pāigachi,15
+ramuz_district.txt,location,Arabistan,unknown,,,Palīm,25
+ramuz_district.txt,location,Arabistan,unknown,,,Rustamābād ,20
+shatait_river.txt,location,Arabistan,115144,35.50239,48.22279,Shaikh Jarrāh,10
+shatait_river.txt,location,Arabistan,144867,31.74439,48.84429,Abu 'Amūd,30
+shatait_river.txt,location,Arabistan,126071,31.23058,48.64234,Saiyid Sālih,20
+shatait_river.txt,location,Arabistan,103,32.11519,48.55054,Mizbān (Bunnat),15
+shatait_river.txt,location,Arabistan,42478,31.72184,48.82357,Abu Qrānīyeh,9
+shatait_river.txt,location,Arabistan,389110,31.03025,49.72152,Abbās (Bunnat),10
+shatait_river.txt,location,Arabistan,unknown,,,Būrāki,10
+shatait_river.txt,location,Arabistan,unknown,,,Yissāreh,5
+shatait_river.txt,location,Arabistan,unknown,,,Thāmar (Bunnat),20
+shushtar_district.txt,location,Arabistan,134858,32.37077,48.91979,Farajābād,50
+shushtar_district.txt,location,Arabistan,130452,32.1847,48.81514,Jallakān,100
+shushtar_district.txt,location,Arabistan,unknown,,,Gotwand,1500
+shushtar_district.txt,location,Arabistan,unknown,,,Shāhwali,200
+zarqan(2).txt,location,Arabistan,140747,31.40059,48.85644,Muhārib (Bait),40
+zarqan(2).txt,location,Arabistan,27491,33.61361,47.78528,Sumāq,50
