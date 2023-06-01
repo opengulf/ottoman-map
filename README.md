@@ -2,11 +2,11 @@
 
 This repository contains data concerning an Ottoman map (c 1910) and data used for a forthcoming publication in the *Journal of the Ottoman Turkish Studies Association*
 
-This release contains four datasets: (1) shape files creating from georeferencing *Harita 93677* from the Istanbul University Rare Sources Library image collection, (2) a companion data table included with the map (3) data about weapons extracted from John Gordon Lorimer, [*Gazetteer Of The Persian Gulf Oman And Central Arabia Vol-ii Geographical And Statistical*](https://archive.org/details/in.ernet.dli.2015.206964), and (4) data about toponyms extracted from the second chapter of the Najd section of Ibrahim Fasih bin al-Sayyid Sibghat-Allah al-Haydari al-Baghdadi’s [*‘Unwan al-Majd fi Bayan Ahwal Baghdad wa-l-Basra wa Najd*]
+This release contains four datasets: (1) shape files created from georeferencing *Harita 93677* from the Istanbul University Rare Sources Library image collection, (2) a companion data table included with the map (3) data about weapons extracted from John Gordon Lorimer, [*Gazetteer Of The Persian Gulf Oman And Central Arabia Vol-ii Geographical And Statistical*](https://archive.org/details/in.ernet.dli.2015.206964), and (4) data about toponyms extracted from the second chapter of the Najd section of Ibrahim Fasih bin al-Sayyid Sibghat-Allah al-Haydari al-Baghdadi’s *‘Unwan al-Majd fi Bayan Ahwal Baghdad wa-l-Basra wa Najd*
 
 #1 "*Harita93677_shapefiles*"  This folder contains shape files created using the Georeferencer tool for QGIS. There are two subfolders: Iraq shapefiles; and Najd shapefiles. 
 
-#2 "*TribesMapData*"  This folder contains a data table listing the values as listed in the original source, in addition to corrected numbers for clear errors. Errors and other ambiguities also described below. The key to the columns in the csv file are found below.
+#2 "*TribesMapData*"  This folder contains a data table giving the values as listed in the original source, in addition to corrected numbers for clear errors. Errors and other ambiguities also described below. The key to the columns in the csv file are found below.
 
 A UniqueID (assigned by us)
 B Tribe number (as given in original table)
