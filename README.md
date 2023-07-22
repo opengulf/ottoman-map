@@ -1,6 +1,6 @@
 # ottoman-map
 
-This repository contains data concerning an Ottoman map (c 1910) and data used for a forthcoming publication in the *Journal of the Ottoman Turkish Studies Association*
+This repository contains data concerning an Ottoman map (c 1910) and data used for a forthcoming publication in the *Journal of the Ottoman Turkish Studies Association*. 
 
 This release contains four datasets: (1) shape files created from georeferencing *Harita 93677* from the Istanbul University Rare Sources Library image collection, (2) a companion data table included with the map (3) data about weapons extracted from John Gordon Lorimer, [*Gazetteer Of The Persian Gulf Oman And Central Arabia Vol-ii Geographical And Statistical*](https://archive.org/details/in.ernet.dli.2015.206964), and (4) data about toponyms extracted from the second chapter of the Najd section of Ibrahim Fasih bin al-Sayyid Sibghat-Allah al-Haydari al-Baghdadi’s *‘Unwan al-Majd fi Bayan Ahwal Baghdad wa-l-Basra wa Najd*
 
@@ -71,6 +71,3 @@ B latitude: value derived from a GeoNames ID
 C longitude: value derived from a GeoNames ID
 D GEOID: the Geonames ID found for the toponym in column A; there are some values without GEOID listed as unknown
 E region_tag: the region al-Haydari links the corresponding toponym to in his treatise.  These include: Qassim, Shammar, Sudayr, Rashm, Mahmal, Aridh, Kharj, Far‘a, Aflaj, Sulayl.  There are two additional tags we assigned to the toponyms: “border”, for toponyms al-Haydari described as marking the border of Najd; and “outside”, for toponyms al-Haydari described as being outside Najd, which are not represented on the map.
-
-Releases of this data are versioned at Zenodo.
-
